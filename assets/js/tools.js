@@ -309,6 +309,9 @@ const toolsData = [
 <blockquote>💬 <strong>Bottom line:</strong> Suno is the most fun AI tool on this list. For content creators who need background music, indie game devs, or just messing around, it's incredible. For professional music production, it's a sketchpad, not a replacement.</blockquote>
     `
   },
+  {id:'remio',name:'Remio',cat:'Productivity',icon:'🧠',color:'#10a37f',url:'https://www.remio.ai/',tag:'Knowledge',price:'Freemium',
+    desc:'Desktop AI workspace that searches files, webpages, meetings, emails, and notes, and creates documents, spreadsheets, and presentations. Core search and indexing run on-device.'
+  },
   {id:'notion-ai',name:'Notion AI',cat:'Productivity',icon:'📋',color:'#000',url:'https://notion.so/product/ai',tag:'Workspace',price:'$10/mo add-on',
     desc:'AI inside Notion workspace. Write, summarize, translate, brainstorm, and auto-fill databases without leaving your notes.',
     review:`
